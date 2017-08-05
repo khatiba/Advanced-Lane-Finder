@@ -1,0 +1,26 @@
+[W 20:59:55.381 NotebookApp] Config option `token` not recognized by `NotebookApp`.
+[I 20:59:56.529 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 20:59:56.535 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 20:59:57.312 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 20:59:57.312 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 20:59:57.330 NotebookApp] [nb_conda] enabled
+[I 20:59:57.440 NotebookApp] [nb_anacondacloud] enabled
+[I 20:59:57.534 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 20:59:57.534 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 20:59:57.539 NotebookApp] Serving notebooks from local directory: /home/carnd/Advanced-Lane-Finder
+[I 20:59:57.539 NotebookApp] 0 active kernels 
+[I 20:59:57.539 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 20:59:57.539 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:59:57.539 NotebookApp] No web browser found: could not locate runnable browser.
+[W 21:00:03.546 NotebookApp] 404 GET /notebooks/Behavioral-Cloning-Project.ipynb (107.185.83.180): No such file or directory: Behavioral-Cloning-Project.ipynb
+[W 21:00:03.592 NotebookApp] 404 GET /notebooks/Behavioral-Cloning-Project.ipynb (107.185.83.180) 46.89ms referer=None
+[I 21:00:09.267 NotebookApp] 302 GET /notebooks/ (107.185.83.180) 1.17ms
+[W 21:00:10.640 NotebookApp] 404 GET /notebooks/Behavioral-Cloning-Project.ipynb (107.185.83.180): No such file or directory: Behavioral-Cloning-Project.ipynb
+[W 21:00:10.642 NotebookApp] 404 GET /notebooks/Behavioral-Cloning-Project.ipynb (107.185.83.180) 2.23ms referer=None
+[W 21:00:12.015 NotebookApp] 404 GET /notebooks/Behavioral-Cloning-Project.ipynb (107.185.83.180): No such file or directory: Behavioral-Cloning-Project.ipynb
+[W 21:00:12.017 NotebookApp] 404 GET /notebooks/Behavioral-Cloning-Project.ipynb (107.185.83.180) 2.17ms referer=None
+[I 21:00:21.362 NotebookApp] 302 GET /notebooks/ (107.185.83.180) 1.16ms
+[I 21:00:38.956 NotebookApp] Creating new notebook in 
+[I 21:00:51.202 NotebookApp] Kernel started: 1ddcfd3a-8382-4dbf-bc1d-9997a1c95813
+[I 21:00:53.109 NotebookApp] Adapting to protocol v5.1 for kernel 1ddcfd3a-8382-4dbf-bc1d-9997a1c95813
+[I 21:02:51.270 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
