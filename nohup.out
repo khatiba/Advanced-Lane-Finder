@@ -653,3 +653,19 @@ OpenCV Error: Assertion failed (nimages > 0) in calibrateCamera, file /home/trav
 [I 05:00:04.524 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
 [I 05:00:30.230 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
 [I 05:02:05.665 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:05:33.284 NotebookApp] Creating new directory in 
+[I 05:06:05.685 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:06:19.912 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:07:10.360 NotebookApp] Kernel interrupted: 40b3c76a-3e61-443c-9bb4-57cc1c7013cd
+[I 05:08:02.342 NotebookApp] 302 GET /notebooks/project_video.mp4 (47.146.212.220) 0.97ms
+[I 05:08:06.054 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:09:07.379 NotebookApp] 302 GET /notebooks/project_video.mp4 (47.146.212.220) 1.04ms
+[I 05:10:05.863 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:10:57.052 NotebookApp] 302 GET /notebooks/project_video.mp4 (47.146.212.220) 0.80ms
+[I 05:11:14.922 NotebookApp] Kernel restarted: 40b3c76a-3e61-443c-9bb4-57cc1c7013cd
+[I 05:11:17.664 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:12:05.488 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:13:46.865 NotebookApp] 404 GET /notebooks/%3Cmoviepy.video.io.VideoFileClip.VideoFileClip%20object%20at%200x7ffb7630a438%3E (47.146.212.220): No such file or directory: <moviepy.video.io.VideoFileClip.VideoFileClip object at 0x7ffb7630a438>
+[W 05:13:46.866 NotebookApp] 404 GET /notebooks/%3Cmoviepy.video.io.VideoFileClip.VideoFileClip%20object%20at%200x7ffb7630a438%3E (47.146.212.220) 1.91ms referer=http://52.35.127.78:8888/notebooks/Advanced-Lane-Finder.ipynb
+[I 05:13:58.207 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 0.83ms
+[I 05:14:06.027 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
