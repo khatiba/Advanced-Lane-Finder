@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
 
 
 [image17]: ./examples/r-curve-eqn.png "Curve EQN"
-[image18]: ./examples/measure-curve.png "Measure Curvature"
+[image18]: ./examples/measure-curve.jpg "Measure Curvature"
 
 [image19]: ./examples/lane-overlay.png "Lane Overlay"
 
