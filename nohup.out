@@ -669,3 +669,362 @@ OpenCV Error: Assertion failed (nimages > 0) in calibrateCamera, file /home/trav
 [W 05:13:46.866 NotebookApp] 404 GET /notebooks/%3Cmoviepy.video.io.VideoFileClip.VideoFileClip%20object%20at%200x7ffb7630a438%3E (47.146.212.220) 1.91ms referer=http://52.35.127.78:8888/notebooks/Advanced-Lane-Finder.ipynb
 [I 05:13:58.207 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 0.83ms
 [I 05:14:06.027 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[C 05:16:22.341 NotebookApp] received signal 15, stopping
+[I 05:16:22.342 NotebookApp] Shutting down kernels
+[I 05:16:22.443 NotebookApp] Kernel shutdown: 40b3c76a-3e61-443c-9bb4-57cc1c7013cd
+[I 03:08:53.693 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 03:08:54.318 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:08:54.318 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:08:54.335 NotebookApp] Serving notebooks from local directory: /home/carnd/Advanced-Lane-Finder
+[I 03:08:54.335 NotebookApp] 0 active kernels 
+[I 03:08:54.335 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 03:08:54.335 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 03:08:54.336 NotebookApp] No web browser found: could not locate runnable browser.
+[W 03:08:58.986 NotebookApp] Notebook Advanced-Lane-Finder.ipynb is not trusted
+[I 03:09:01.457 NotebookApp] Kernel started: 334c803c-1e04-4656-bfb2-9e8a711e1e90
+[I 03:11:03.031 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:11:03.032 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:11:04.759 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:11:04.760 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:13:02.976 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:13:02.977 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:17:02.198 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:17:02.199 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:17:40.703 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:17:40.704 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:18:31.934 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:18:31.934 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:20:22.630 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:20:22.631 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:22:47.862 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:22:47.863 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:23:02.788 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:23:02.789 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:24:07.193 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:24:07.194 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:25:01.690 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:25:01.691 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:25:55.573 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:25:55.574 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:27:03.889 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:27:03.889 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:29:01.757 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:29:01.758 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:29:24.497 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:29:24.497 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:29:41.186 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:29:41.187 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:33:02.792 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:33:02.793 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:35:02.870 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:35:02.870 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:41:08.417 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:41:08.418 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:43:03.145 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:43:03.146 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:45:03.112 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:45:03.113 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:45:09.475 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:45:09.476 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:47:03.109 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:47:03.110 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:49:01.819 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:49:01.819 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:50:04.173 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:50:04.173 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:50:31.095 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:50:31.095 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:51:03.960 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:51:03.961 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:53:01.966 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:53:01.966 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:55:05.181 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:55:05.182 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:57:02.084 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:57:02.085 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:57:13.812 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:57:13.812 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:58:59.605 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:58:59.605 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 03:59:08.993 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 03:59:08.993 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:01:02.133 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:01:02.133 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:01:06.396 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:01:06.396 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:01:39.132 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:01:39.133 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:03:02.028 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:03:02.028 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:03:23.357 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:03:23.357 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:03:43.921 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:03:43.921 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:03:45.119 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:03:45.120 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:04:23.447 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:04:23.448 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:04:31.234 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:04:31.234 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:05:01.990 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:05:01.991 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:05:24.287 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:05:24.288 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:07:02.146 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:07:02.147 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:07:18.936 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:07:18.936 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:09:02.157 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:09:02.157 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:11:06.561 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:11:06.562 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:13:02.242 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:13:02.243 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:15:05.266 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:15:05.267 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:17:04.946 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:17:04.946 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:18:44.043 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:18:44.043 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:23:02.852 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:23:02.852 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:25:07.137 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:25:07.137 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:29:02.488 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:29:02.489 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:30:30.409 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:30:30.410 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:30:32.043 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:30:32.044 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:31:02.490 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:31:02.491 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:31:11.578 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:31:11.578 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:33:02.965 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:33:02.966 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:35:02.565 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:35:02.566 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:37:02.562 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:37:02.562 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:41:02.555 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:41:02.555 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:43:02.639 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:43:02.640 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:45:02.629 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:45:02.629 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:47:02.673 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:47:02.674 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:49:02.680 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:49:02.680 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:51:02.659 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:51:02.660 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:53:02.933 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:53:02.933 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:55:02.642 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:55:02.643 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:57:02.661 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:57:02.662 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 04:59:03.121 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 04:59:03.122 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:01:02.659 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:01:02.659 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:01:08.897 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:01:08.897 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:01:11.232 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:01:11.232 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:03:02.683 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:03:02.683 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:05:02.724 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:05:02.725 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:09:03.366 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:09:03.366 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:09:51.515 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:09:51.516 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:10:23.775 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:10:23.776 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:10:51.201 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:10:51.202 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:10:58.649 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:10:58.650 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:11:01.326 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:11:01.327 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:11:28.426 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:11:28.426 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:11:37.885 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:11:37.885 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:12:56.266 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:12:56.266 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:13:02.605 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:13:02.606 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:13:03.557 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:13:03.558 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:13:38.519 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:13:38.519 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:14:34.326 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:14:34.326 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:15:02.706 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:15:02.706 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:15:23.414 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:15:23.414 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:15:24.978 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:15:24.978 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:15:36.725 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:15:36.726 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:16:21.220 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:16:21.220 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:17:02.767 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:17:02.768 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:17:23.735 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:17:23.736 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:17:35.606 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:17:35.607 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:18:32.303 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:18:32.304 NotebookApp] Saving untrusted notebook Advanced-Lane-Finder.ipynb
+[I 05:18:49.399 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 0.92ms
+[I 05:19:03.087 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:20:51.606 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:21:03.129 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:23:02.818 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:23:41.360 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.08ms
+[I 05:24:43.304 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:24:51.146 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:25:02.808 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:25:04.743 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:25:25.571 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:25:41.142 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:27:02.846 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:29:02.820 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:29:19.822 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 0.85ms
+[I 05:29:34.039 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:31:26.607 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:31:32.223 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.05ms
+[I 05:32:02.702 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:32:55.844 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:33:03.121 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:33:22.056 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:33:30.136 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:33:48.861 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.08ms
+[I 05:34:10.249 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:37:02.845 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:37:33.984 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:39:02.877 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:39:37.857 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:39:57.962 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:40:26.900 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.13ms
+[I 05:40:42.502 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:41:02.919 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:41:12.264 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:41:28.846 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.16ms
+[I 05:41:57.171 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:42:13.606 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:42:48.846 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:42:57.356 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:43:02.857 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:44:00.802 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:45:03.248 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:45:31.218 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:47:03.030 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:47:35.467 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:47:47.574 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:48:17.348 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.11ms
+[I 05:49:02.902 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:53:57.265 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:55:00.162 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:56:12.268 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:56:18.646 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:57:02.899 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:57:12.725 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:57:13.929 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[W 05:58:26.228 NotebookApp] 404 GET /favicon.ico (47.146.212.220) 10.21ms referer=http://52.35.127.78:8888/view/output_images/test1.jpg
+[I 05:59:03.287 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:59:42.312 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 05:59:52.250 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:00:04.329 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:00:31.134 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.01ms
+[I 06:01:02.854 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:01:14.962 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:02:01.629 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:02:13.365 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 0.98ms
+[I 06:02:38.107 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:03:21.702 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:03:35.094 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.02ms
+[I 06:05:02.856 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:05:14.426 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:05:41.881 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:06:19.190 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:06:37.707 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.14ms
+[I 06:07:03.126 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:07:13.378 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:07:15.572 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:07:16.834 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:07:44.982 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:07:57.051 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:08:34.690 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:09:02.879 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:09:24.742 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:09:49.628 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:09:54.878 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:10:05.834 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.07ms
+[I 06:10:13.347 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:10:56.156 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:11:02.863 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:11:19.530 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.08ms
+[I 06:12:10.635 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.09ms
+[I 06:13:02.865 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:13:37.116 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:15:02.861 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:15:11.457 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:16:08.207 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:16:53.363 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:17:02.840 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:17:39.810 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:18:18.184 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:19:03.227 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:19:15.067 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.14ms
+[I 06:20:37.366 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:20:48.937 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:21:10.150 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:21:37.774 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:22:54.039 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:23:02.751 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:23:29.410 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:23:43.154 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.05ms
+[I 06:24:33.114 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:24:50.929 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.09ms
+[I 06:25:03.314 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:26:24.242 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:27:03.173 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:27:03.538 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:27:20.359 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.04ms
+[I 06:27:52.551 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:28:19.481 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:28:40.275 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.09ms
+[I 06:29:02.892 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:29:14.264 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:29:32.950 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.00ms
+[I 06:29:49.315 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:31:03.715 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:31:12.828 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:32:33.370 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:33:02.892 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:33:19.053 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:33:50.677 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:35:02.867 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:35:05.756 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:36:42.033 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:37:00.486 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.01ms
+[I 06:37:02.867 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:38:31.967 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.05ms
+[I 06:39:02.873 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:39:10.444 NotebookApp] Kernel interrupted: 334c803c-1e04-4656-bfb2-9e8a711e1e90
+[I 06:39:15.496 NotebookApp] Kernel restarted: 334c803c-1e04-4656-bfb2-9e8a711e1e90
+[I 06:39:52.085 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:40:17.540 NotebookApp] 302 GET / (169.54.244.82) 0.52ms
+[I 06:40:18.562 NotebookApp] 302 GET / (169.54.244.82) 0.46ms
+[I 06:40:24.454 NotebookApp] 302 GET / (169.54.244.82) 0.48ms
+[I 06:40:28.440 NotebookApp] 302 GET / (169.54.244.82) 0.50ms
+[I 06:41:03.046 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:43:02.732 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:44:55.053 NotebookApp] 302 GET /notebooks/output_videos/project_video.mp4 (47.146.212.220) 1.09ms
+[I 06:45:03.022 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
+[I 06:45:54.782 NotebookApp] Saving file at /Advanced-Lane-Finder.ipynb
