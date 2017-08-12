@@ -157,4 +157,3 @@ The pipeline worked well on the project video. I tried the same pipeline on the 
 Some tweaking of the color thresholds would help but it would be ideal if cropping could be used to completely eliminate peripheral objects. Perhaps a tighter perspective transform but of course this would make assumptions about the lane widths and road conditions.
 
 Perhaps using a method similar to the sliding window search but applied to the color thresholds could help. Knowing that as the region moves up the image toward the horizon, more noise is expected and color thresholds can be adjusted.
-
