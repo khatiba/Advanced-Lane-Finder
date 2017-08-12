@@ -119,8 +119,8 @@ I verified that my perspective transform was working as expected by drawing the 
 
 #### 4. Identifying Lane Lines
 
-Then I did some other stuff and fit my lane lines with a 2nd order polynomial kinda like this:
-
+Then I used a sliding window search to find lane line pixels within a margin around the histogram peaks.
+Then a 2nd order polyfit is used to find equations of the lane lines. The pipeline keeps track of the last `n` line fits and updates it's best fit property depending on the percent difference of each estimation.
 
 ![alt text][image10]
 ![alt text][image11]
@@ -149,12 +149,11 @@ Here's a [link to the project video output](./output_videos/project_video.mp4)
 ---
 
 ### Discussion
+I started with straightforward steps of camera calibration, undistorting and perspective transform. The gradient and color thresholds took some trial and error. I found that the gradient in the x-direction worked best on the lightness channel. I also combined two color thresholds: blue and lightness channels. The blue channel worked very well at extracting the yellow lines and the lightness channel picked up white lane lines (and occasional bright wheel rims).
 
-The pipeline worked pretty well on the project video. I tried the same pipeline on the harder challenge videos but they were failures.
+The pipeline worked pretty well on the project video. I tried the same pipeline on the harder challenge videos but they were total failures. The color channel thresholds were capturing too much peripheral noise from shadows, cars and scenery, resulting in very poor lane line approximations.
 
-I did a light investigation of the intermediate steps of the video to find that the color channels needed some tweaking in the thresholds.
+Some tweaking of the color thresholds would help but it would be ideal if cropping could be used to completely eliminate peripheral objects. Perhaps a tighter perspective transform but of course this would make assumptions about the lane widths and road conditions.
 
-It was also difficult to eliminate the noise surrounding the lanes, eg: cars, objects, signs etc. that cuased larges errors in estimating the lane lines.
+Perhaps using the sliding window method but applied to the color thresholds could help, knowing that as the region moves up the image toward the horizon, more noise is expected and can thresholds can be adjusted.
 
-
-Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
