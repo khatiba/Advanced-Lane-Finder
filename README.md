@@ -1,5 +1,7 @@
 # Advanced-Lane-Finder
 
+![alt text][image13]
+
 ---
 
 The goals / steps of this project are the following:
