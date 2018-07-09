@@ -1,6 +1,6 @@
 # Advanced-Lane-Finder
 
-![alt text][image13]
+![alt text][image20]
 
 ---
 
@@ -37,6 +37,7 @@ The goals / steps of this project are the following:
 [image18]: ./examples/curvature.jpg "Measure Curvature"
 
 [image19]: ./examples/lane-overlay.png "Lane Overlay"
+[image20]: ./project-animation.gif "Animation"
 
 [video]: ./project_video.mp4 "Project Video"
 
